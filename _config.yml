@@ -22,15 +22,55 @@ title: Phuc YNWA's blog
 email: lhphuc.ynwa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a simple notebook, where I share everything I learnt.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://phucynwa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: phucynwa
 github_username:  phucynwa
+show_excerpts: true
+permalink: /:categories/:title/
+
+plainwhite:
+  style: blue
+  showNav: true
+  navigation:
+    - title: Home
+      url: "/"
+    - title: About
+      url: "/about/"
+    - title: Categories
+      url: "/categories/"
+    - title: Daily Notes
+      url: "/daily-notes/"
+  name: Phuc YNWA
+  tagline: Android Developer.
+  date_format: "%b %-d, %Y"
+  sitemap: true
+  dark_mode: true
+  search: true
+  portfolio_image: "assets/portfolio.png"
+  analytics_id: G-00QHPCC7KF
+  disqus_shortname: phucynwa
+
+  social_links:
+    twitter: phucynwa
+    github:  phucynwa
+    linkedIn: in/phucynwa
+    rss: feed.xml
+
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/default.webp
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -40,14 +80,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
