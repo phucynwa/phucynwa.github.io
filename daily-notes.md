@@ -21,3 +21,8 @@ permalink: /daily-notes/
 
 - Using JUnit5 for Testing Framework, MockK for Mocking and AssertJ for Assertion: [https://www.youtube.com/watch?v=RX_g65J14H0](https://www.youtube.com/watch?v=RX_g65J14H0)
 
+## 30/07/2020
+
+- To enable Chrome dark mode, visit: [chrome://flags/#enable-force-dark](chrome://flags/#enable-force-dark)
+
+- Think of a slug like a zip file of your app pushed to heroku. Heroku zips everything up into what it calls a slug. The size of the zip file is the slug size.
