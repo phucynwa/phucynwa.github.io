@@ -47,4 +47,27 @@ permalink: /daily-notes/
 ## 20/09/2020
 
 - [https://medium.com/androiddevelopers/adapt-your-app-for-the-latest-privacy-best-practices-d7469a547314](https://medium.com/androiddevelopers/adapt-your-app-for-the-latest-privacy-best-practices-d7469a547314)
+
 - To start Postman more quickly, add `export POSTMAN_DISABLE_GPU=true` into end of ~/.bashrc file, then run `source ~/.bashrc`.
+
+## 03/11/2020
+
+- Start learning iOS development here:
+
+  [https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html)
+
+## 04/11/2020
+
+- This size allow us to compress images [https://shortpixel.com/](https://shortpixel.com/)
+
+## 11/11/2020
+
+- Run below command to use git completion on MacOS:
+
+  ```shell
+  echo 'autoload -Uz compinit && compinit' >> ~/.zshrc
+  source ~/.zshrc
+  ```
+
+  
+
