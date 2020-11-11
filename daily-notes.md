@@ -69,5 +69,9 @@ permalink: /daily-notes/
   source ~/.zshrc
   ```
 
-  
+
+- To show current date on MacOS:
+```
+`date +%Y-%m-%d `
+```
 
