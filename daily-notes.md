@@ -75,3 +75,6 @@ permalink: /daily-notes/
 `date +%Y-%m-%d `
 ```
 
+## 25/11/2020
+
+- Nếu anh yêu một con chim, anh sẽ muốn nó được tự do bay lượn thay vì nhốt nó ở trong lồng.
