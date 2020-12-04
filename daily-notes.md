@@ -79,3 +79,7 @@ permalink: /daily-notes/
 
 - Nếu anh yêu một con chim, anh sẽ muốn nó được tự do bay lượn thay vì nhốt nó ở trong lồng.
 
+## 04/12/2020
+
+- [How can I improve my English speaking skills in 1 year?](https://qr.ae/pNa1qi)
+
