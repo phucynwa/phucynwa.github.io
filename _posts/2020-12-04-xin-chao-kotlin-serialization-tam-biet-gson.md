@@ -6,11 +6,11 @@ categories: Programming
 
 ---
 
+*Trong thế giới Android hiện nay đã có rất nhiều các thư viện nổi tiếng và hiệu quả dành cho serialization được ra mắt. Trong đó nổi tiếng nhất có lẽ là Gson - một thư viện đến từ chính ông chủ chủ của hệ điều hành Android - Google. Nhưng cho dù như vậy, team phát triển Kotlin vẫn quyết định cho ra đời một thư viện mới của riêng mình mang tên Kotlin Serialization, dành riêng cho Kotlin. Tại sao lại như vậy ?*
+
 ## Kotlin Serialization là gì ?
 
 Trong thế giới Android hiện nay đã có rất nhiều các thư viện nổi tiếng và hiệu quả dành cho serialization được ra mắt. Trong đó nổi tiếng nhất có lẽ là Gson - một thư viện đến từ chính ông chủ chủ của hệ điều hành Android - Google. Nhưng cho dù như vậy, team phát triển Kotlin vẫn quyết định cho ra đời một thư viện mới của riêng mình mang tên Kotlin Serialization, dành riêng cho Kotlin. Tại sao lại như vậy ?
-
-
 
 Các thư viện serialization hiện có như Gson, Moshi... là những thư viện của Java sử dụng tính năng reflection (*) của Java, khá phù hợp đối với phát triển Android. Thế nhưng Kotlin không chỉ giới hạn trong mỗi Android (JVM), nó còn hỗ trợ các nền tảng khác như JavaScript (Kotlin/JS) và iOS (Kotlin/Native)... Các reflection chỉ hoạt động trên JVM chắc chắn bất khả thi khi làm việc với các nền tảng JS và Native. Ngoài ra, sử dụng reflection trong Android cũng là một nhược điểm lớn (gây memory leak).
 
