@@ -3,7 +3,10 @@ layout: post
 title: "Xin chào Kotlin Serialization, tạm biệt Gson !"
 date: 2020-12-04
 categories: Programming
-
+image:
+  path: /assets/images/2020-12-05-kotlin-serialization.png
+  height: 1001
+  width: 500
 ---
 
 *Trong thế giới Android hiện nay đã có rất nhiều các thư viện nổi tiếng và hiệu quả dành cho serialization được ra mắt. Trong đó nổi tiếng nhất có lẽ là Gson - một thư viện đến từ chính ông chủ chủ của hệ điều hành Android - Google. Nhưng cho dù như vậy, team phát triển Kotlin vẫn quyết định cho ra đời một thư viện mới của riêng mình mang tên Kotlin Serialization, dành riêng cho Kotlin. Tại sao lại như vậy ?*
