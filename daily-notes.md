@@ -90,3 +90,4 @@ permalink: /daily-notes/
 - ĐỊNH LUẬT WIRTH
   “Software gets slower faster than hardware gets faster” – “Tốc độ tiến hóa của phần cứng không bằng tốc độ thoái hóa của phần mềm.”
 
+- Thói quen thứ 8 của Stephen R.Covey
