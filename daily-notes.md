@@ -86,8 +86,7 @@ permalink: /daily-notes/
 ## 06/12/2020
 
 - [Using Kotlin in a Serverless Architecture with AWS Lambda](https://medium.com/tech-travelstart/using-kotlin-in-a-serverless-architecture-with-aws-lambda-part-1-setting-up-the-project-87033790e2f4)
-
 - ĐỊNH LUẬT WIRTH
   “Software gets slower faster than hardware gets faster” – “Tốc độ tiến hóa của phần cứng không bằng tốc độ thoái hóa của phần mềm.”
-
 - Thói quen thứ 8 của Stephen R.Covey
+- Another great blog: [https://dammayxanh.wordpress.com/](https://dammayxanh.wordpress.com/)
