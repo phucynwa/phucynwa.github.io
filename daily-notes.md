@@ -83,3 +83,6 @@ permalink: /daily-notes/
 
 - [How can I improve my English speaking skills in 1 year?](https://qr.ae/pNa1qi)
 
+## 06/12/2020
+
+- [Using Kotlin in a Serverless Architecture with AWS Lambda](https://medium.com/tech-travelstart/using-kotlin-in-a-serverless-architecture-with-aws-lambda-part-1-setting-up-the-project-87033790e2f4)
