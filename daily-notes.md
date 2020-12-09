@@ -90,3 +90,7 @@ permalink: /daily-notes/
   “Software gets slower faster than hardware gets faster” – “Tốc độ tiến hóa của phần cứng không bằng tốc độ thoái hóa của phần mềm.”
 - Thói quen thứ 8 của Stephen R.Covey
 - Another great blog: [https://dammayxanh.wordpress.com/](https://dammayxanh.wordpress.com/)
+
+## 09/12/2020
+
+- Brands' colors: [https://brandpalettes.com/all-brands/](https://brandpalettes.com/all-brands/)
