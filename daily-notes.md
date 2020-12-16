@@ -94,3 +94,7 @@ permalink: /daily-notes/
 ## 09/12/2020
 
 - Brands' colors: [https://brandpalettes.com/all-brands/](https://brandpalettes.com/all-brands/)
+
+## 16/12/2020
+
+- *Classes should be immutable unless there’s a very good reason to make them mutable….If a class cannot be made immutable, limit its mutability as much as possible.* - Joshua Bloch, Effective Java
