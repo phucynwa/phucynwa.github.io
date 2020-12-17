@@ -102,3 +102,8 @@ permalink: /daily-notes/
 ## 17/12/2020
 
 - [https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture)
+
+## 18/12/2020
+
+- https://tienganhmoingay.com/meo-thi-toeic/
+
