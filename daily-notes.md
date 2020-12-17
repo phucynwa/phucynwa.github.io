@@ -98,3 +98,7 @@ permalink: /daily-notes/
 ## 16/12/2020
 
 - *Classes should be immutable unless there’s a very good reason to make them mutable….If a class cannot be made immutable, limit its mutability as much as possible.* - Joshua Bloch, Effective Java
+
+## 17/12/2020
+
+- [https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture)
