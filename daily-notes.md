@@ -107,3 +107,6 @@ permalink: /daily-notes/
 
 - https://tienganhmoingay.com/meo-thi-toeic/
 
+## 10/01/2021
+
+- [https://sizovs.net/2018/12/17/stop-learning-frameworks/](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
