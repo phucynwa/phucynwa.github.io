@@ -110,3 +110,7 @@ permalink: /daily-notes/
 ## 10/01/2021
 
 - [https://sizovs.net/2018/12/17/stop-learning-frameworks/](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
+
+## 21/02/2020
+
+- [https://colorsui.com/](https://colorsui.com/)
