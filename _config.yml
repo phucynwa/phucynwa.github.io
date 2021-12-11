@@ -59,7 +59,7 @@ plainwhite:
 
 # Build settings
 # theme: minima
-remote_theme: samarsault/plainwhite-jekyll
+remote_theme: cotes2020/jekyll-theme-chirpy #samarsault/plainwhite-jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
